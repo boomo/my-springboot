@@ -1,0 +1,7 @@
+2018-12-21 17:07:09,227  INFO ApplicationTests:48 ---- Starting ApplicationTests on XL-PC with PID 7796 (D:\workspace2\my-springboot\chapter4-2-2\target\test-classes started by XL in D:\workspace2\my-springboot\chapter4-2-2)
+2018-12-21 17:07:09,228 DEBUG ApplicationTests:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-21 17:07:09,228  INFO ApplicationTests:670 ---- The following profiles are active: dev
+2018-12-21 17:07:12,537  INFO ApplicationTests:57 ---- Started ApplicationTests in 4.691 seconds (JVM running for 6.009)
+2018-12-21 17:07:12,583  INFO ApplicationTests:18 ---- 输出info
+2018-12-21 17:07:12,584 DEBUG ApplicationTests:19 ---- 输出debug
+2018-12-21 17:07:12,584 ERROR ApplicationTests:20 ---- 输出error

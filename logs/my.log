@@ -1,0 +1,265 @@
+2018-12-20 14:01:34,067  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 224 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:01:34,096 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:01:34,097  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:06:02,031  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 7524 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:06:02,035 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:06:02,035  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:09:48,757  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 2488 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:09:48,760 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:09:48,760  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:09:51,422  INFO Chapter422Application:57 ---- Started Chapter422Application in 2.977 seconds (JVM running for 3.911)
+2018-12-20 14:10:40,847  INFO WebLogAspect:57 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:10:40,847  INFO WebLogAspect:58 ---- /hello
+2018-12-20 14:10:40,848  INFO WebLogAspect:59 ---- 192.168.0.173
+2018-12-20 14:10:40,848  INFO WebLogAspect:60 ---- 192.168.0.173
+2018-12-20 14:10:40,848  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:10:40,850  INFO WebLogAspect:63 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:10:40,850  INFO WebLogAspect:64 ---- ARGS : [hhh]
+2018-12-20 14:10:40,855  INFO WebLogAspect:72 ---- return : hello, hhh
+2018-12-20 14:11:45,434  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 8464 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:11:45,439 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:11:45,440  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:11:48,485  INFO Chapter422Application:57 ---- Started Chapter422Application in 3.432 seconds (JVM running for 7.197)
+2018-12-20 14:11:54,773  INFO WebLogAspect:57 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:11:54,774  INFO WebLogAspect:58 ---- /hello
+2018-12-20 14:11:54,775  INFO WebLogAspect:59 ---- 192.168.0.173
+2018-12-20 14:11:54,776  INFO WebLogAspect:60 ---- 192.168.0.173
+2018-12-20 14:11:54,776  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:15:15,511  INFO WebLogAspect:63 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:15:17,979  INFO WebLogAspect:64 ---- ARGS : [hhh]
+2018-12-20 14:15:29,088  INFO WebLogAspect:72 ---- return : hello, hhh
+2018-12-20 14:18:59,400  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 8760 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:18:59,406 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:18:59,407  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:19:02,237  INFO Chapter422Application:57 ---- Started Chapter422Application in 3.492 seconds (JVM running for 5.018)
+2018-12-20 14:20:28,303  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:20:28,304  INFO WebLogAspect:60 ---- /hello
+2018-12-20 14:20:28,307  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:20:28,307  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:20:28,308  INFO WebLogAspect:63 ---- 192.168.0.173
+2018-12-20 14:20:28,309  INFO WebLogAspect:65 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:20:28,309  INFO WebLogAspect:66 ---- ARGS : [h1]
+2018-12-20 14:20:28,316  INFO WebLogAspect:74 ---- return : hello, h1
+2018-12-20 14:20:43,687  INFO WebLogAspect:75 ---- spend: 80028
+2018-12-20 14:21:08,008  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:21:08,009  INFO WebLogAspect:60 ---- /hello
+2018-12-20 14:21:08,014  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:21:08,015  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:21:08,015  INFO WebLogAspect:63 ---- 192.168.0.173
+2018-12-20 14:21:08,016  INFO WebLogAspect:65 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:21:08,016  INFO WebLogAspect:66 ---- ARGS : [h2]
+2018-12-20 14:21:08,017  INFO WebLogAspect:74 ---- return : hello, h2
+2018-12-20 14:21:13,391  INFO WebLogAspect:75 ---- spend: 20682
+2018-12-20 14:22:26,568  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 8208 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:22:26,572 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:22:26,573  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:22:30,152  INFO Chapter422Application:57 ---- Started Chapter422Application in 4.0 seconds (JVM running for 5.091)
+2018-12-20 14:23:02,052  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:23:02,053  INFO WebLogAspect:60 ---- /hello
+2018-12-20 14:23:02,055  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:23:02,056  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:23:02,057  INFO WebLogAspect:63 ---- 192.168.0.173
+2018-12-20 14:23:02,058  INFO WebLogAspect:65 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:23:02,058  INFO WebLogAspect:66 ---- ARGS : [h1]
+2018-12-20 14:23:02,075  INFO WebLogAspect:74 ---- return : hello, h1
+2018-12-20 14:23:02,109  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:23:13,270  INFO WebLogAspect:60 ---- /hello
+2018-12-20 14:23:13,271  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:23:13,272  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:23:13,272  INFO WebLogAspect:63 ---- 192.168.0.173
+2018-12-20 14:23:13,273  INFO WebLogAspect:65 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:23:13,273  INFO WebLogAspect:66 ---- ARGS : [h2]
+2018-12-20 14:23:13,274  INFO WebLogAspect:74 ---- return : hello, h2
+2018-12-20 14:23:13,278  INFO WebLogAspect:76 ---- spend: 26098
+2018-12-20 14:23:29,224  INFO WebLogAspect:76 ---- spend: 11197
+2018-12-20 14:27:06,937  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 8276 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:27:06,938 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:27:06,939  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:27:09,754  INFO Chapter422Application:57 ---- Started Chapter422Application in 3.669 seconds (JVM running for 4.907)
+2018-12-20 14:27:41,788  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:27:41,789  INFO WebLogAspect:60 ---- /hello
+2018-12-20 14:27:41,790  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:27:41,791  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:27:41,792  INFO WebLogAspect:63 ---- 192.168.0.173
+2018-12-20 14:27:41,792  INFO WebLogAspect:65 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:27:41,793  INFO WebLogAspect:66 ---- ARGS : [h1]
+2018-12-20 14:27:41,805  INFO WebLogAspect:75 ---- return: 20526
+2018-12-20 14:27:41,810  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:27:41,811  INFO WebLogAspect:60 ---- /hello
+2018-12-20 14:27:41,811  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:27:41,816  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:27:41,818  INFO WebLogAspect:63 ---- 192.168.0.173
+2018-12-20 14:27:41,819  INFO WebLogAspect:65 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:27:41,819  INFO WebLogAspect:66 ---- ARGS : [h2]
+2018-12-20 14:27:41,819  INFO WebLogAspect:75 ---- return: 9
+2018-12-20 14:28:27,770  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 8356 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:28:27,774 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:28:27,775  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:28:30,584  INFO Chapter422Application:57 ---- Started Chapter422Application in 3.757 seconds (JVM running for 5.019)
+2018-12-20 14:29:04,164  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:29:04,166  INFO WebLogAspect:60 ---- /hello
+2018-12-20 14:29:04,167  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:29:04,167  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:29:04,168  INFO WebLogAspect:63 ---- 192.168.0.173
+2018-12-20 14:29:04,168  INFO WebLogAspect:65 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:29:04,168  INFO WebLogAspect:66 ---- ARGS : [h2]
+2018-12-20 14:29:04,176  INFO WebLogAspect:75 ---- return: hello, h2, time:28903,start:1545287315273
+2018-12-20 14:29:04,186  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:29:04,187  INFO WebLogAspect:60 ---- /hello
+2018-12-20 14:29:04,188  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:29:04,188  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:29:04,188  INFO WebLogAspect:63 ---- 192.168.0.173
+2018-12-20 14:29:04,189  INFO WebLogAspect:65 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:29:04,189  INFO WebLogAspect:66 ---- ARGS : [h1]
+2018-12-20 14:29:04,189  INFO WebLogAspect:75 ---- return: hello, h1, time:3,start:1545287344186
+2018-12-20 14:29:58,307  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:29:58,308  INFO WebLogAspect:60 ---- /hello
+2018-12-20 14:29:58,308  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:29:58,309  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:29:58,310  INFO WebLogAspect:63 ---- 192.168.0.173
+2018-12-20 14:29:58,310  INFO WebLogAspect:65 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:29:58,311  INFO WebLogAspect:66 ---- ARGS : [h1]
+2018-12-20 14:29:58,311  INFO WebLogAspect:75 ---- return: hello, h1, time:8490,start:1545287389821
+2018-12-20 14:29:58,331  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:29:58,332  INFO WebLogAspect:60 ---- /hello
+2018-12-20 14:29:58,333  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:29:58,333  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:29:58,333  INFO WebLogAspect:63 ---- 192.168.0.173
+2018-12-20 14:29:58,334  INFO WebLogAspect:65 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:29:58,334  INFO WebLogAspect:66 ---- ARGS : [h2]
+2018-12-20 14:29:58,336  INFO WebLogAspect:75 ---- return: hello, h2, time:5,start:1545287398331
+2018-12-20 14:32:00,834  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 6716 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:32:00,838 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:32:00,839  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:32:04,146  INFO Chapter422Application:57 ---- Started Chapter422Application in 3.662 seconds (JVM running for 4.715)
+2018-12-20 14:32:30,234  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:32:30,235  INFO WebLogAspect:60 ---- /hello
+2018-12-20 14:32:30,235  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:32:30,236  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:32:30,236  INFO WebLogAspect:63 ---- 192.168.0.173
+2018-12-20 14:32:30,238  INFO WebLogAspect:65 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:32:30,238  INFO WebLogAspect:66 ---- ARGS : [h1]
+2018-12-20 14:32:30,243  INFO WebLogAspect:75 ---- return: hello, h1, time:9,start:1545287550234
+2018-12-20 14:32:30,243  INFO WebLogAspect:77 ---- com.hly.chapter422.aspect.WebLogAspect@376f9cbf
+2018-12-20 14:32:31,957  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:32:31,957  INFO WebLogAspect:60 ---- /hello
+2018-12-20 14:32:31,957  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:32:31,958  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:32:31,958  INFO WebLogAspect:63 ---- 192.168.0.173
+2018-12-20 14:32:31,958  INFO WebLogAspect:65 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:32:31,958  INFO WebLogAspect:66 ---- ARGS : [h1]
+2018-12-20 14:32:31,959  INFO WebLogAspect:75 ---- return: hello, h1, time:2,start:1545287551957
+2018-12-20 14:32:31,959  INFO WebLogAspect:77 ---- com.hly.chapter422.aspect.WebLogAspect@376f9cbf
+2018-12-20 14:33:42,947  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:33:42,948  INFO WebLogAspect:60 ---- /hello
+2018-12-20 14:33:42,948  INFO WebLogAspect:61 ---- 192.168.0.173
+2018-12-20 14:33:42,948  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:33:42,948  INFO WebLogAspect:63 ---- 192.168.0.173
+2018-12-20 14:33:42,949  INFO WebLogAspect:65 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:33:42,949  INFO WebLogAspect:66 ---- ARGS : [h2]
+2018-12-20 14:33:42,949  INFO WebLogAspect:75 ---- return: hello, h2, time:2,start:1545287622947
+2018-12-20 14:33:42,949  INFO WebLogAspect:77 ---- com.hly.chapter422.aspect.WebLogAspect@376f9cbf
+2018-12-20 14:38:25,773  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 4616 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:38:25,776 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:38:25,777  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:38:29,477  INFO Chapter422Application:57 ---- Started Chapter422Application in 4.05 seconds (JVM running for 5.103)
+2018-12-20 14:38:36,374  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:38:36,375  INFO WebLogAspect:60 ---- 192.168.0.173
+2018-12-20 14:38:36,377  INFO WebLogAspect:61 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:38:36,377  INFO WebLogAspect:62 ---- ARGS : [h1]
+2018-12-20 14:38:36,382  INFO WebLogAspect:71 ---- return: hello, h1, time:8,start:1545287916374
+2018-12-20 14:38:36,383  INFO WebLogAspect:73 ---- com.hly.chapter422.aspect.WebLogAspect@72f273d8
+2018-12-20 14:38:36,642  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:38:36,643  INFO WebLogAspect:60 ---- 192.168.0.173
+2018-12-20 14:38:36,644  INFO WebLogAspect:61 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:38:36,644  INFO WebLogAspect:62 ---- ARGS : [h1]
+2018-12-20 14:38:36,644  INFO WebLogAspect:71 ---- return: hello, h1, time:2,start:1545287916642
+2018-12-20 14:38:36,644  INFO WebLogAspect:73 ---- com.hly.chapter422.aspect.WebLogAspect@72f273d8
+2018-12-20 14:38:36,845  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:38:36,846  INFO WebLogAspect:60 ---- 192.168.0.173
+2018-12-20 14:38:36,846  INFO WebLogAspect:61 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:38:36,847  INFO WebLogAspect:62 ---- ARGS : [h1]
+2018-12-20 14:38:36,847  INFO WebLogAspect:71 ---- return: hello, h1, time:2,start:1545287916845
+2018-12-20 14:38:36,847  INFO WebLogAspect:73 ---- com.hly.chapter422.aspect.WebLogAspect@72f273d8
+2018-12-20 14:38:37,066  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:38:37,066  INFO WebLogAspect:60 ---- 192.168.0.173
+2018-12-20 14:38:37,067  INFO WebLogAspect:61 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:38:37,067  INFO WebLogAspect:62 ---- ARGS : [h1]
+2018-12-20 14:38:37,068  INFO WebLogAspect:71 ---- return: hello, h1, time:2,start:1545287917066
+2018-12-20 14:38:37,068  INFO WebLogAspect:73 ---- com.hly.chapter422.aspect.WebLogAspect@72f273d8
+2018-12-20 14:38:37,285  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:38:37,286  INFO WebLogAspect:60 ---- 192.168.0.173
+2018-12-20 14:38:37,287  INFO WebLogAspect:61 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:38:37,287  INFO WebLogAspect:62 ---- ARGS : [h1]
+2018-12-20 14:38:37,287  INFO WebLogAspect:71 ---- return: hello, h1, time:2,start:1545287917285
+2018-12-20 14:38:37,287  INFO WebLogAspect:73 ---- com.hly.chapter422.aspect.WebLogAspect@72f273d8
+2018-12-20 14:40:02,199  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 8076 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:40:02,202 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:40:02,203  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:40:04,829  INFO Chapter422Application:57 ---- Started Chapter422Application in 2.939 seconds (JVM running for 3.888)
+2018-12-20 14:40:41,976  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:40:41,977  INFO WebLogAspect:60 ---- 192.168.0.173
+2018-12-20 14:40:41,979  INFO WebLogAspect:61 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:40:41,979  INFO WebLogAspect:62 ---- ARGS : [h1]
+2018-12-20 14:40:43,850  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:40:43,851  INFO WebLogAspect:60 ---- 192.168.0.173
+2018-12-20 14:40:43,853  INFO WebLogAspect:61 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:40:43,855  INFO WebLogAspect:62 ---- ARGS : [h2]
+2018-12-20 14:41:08,597  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:41:08,597  INFO WebLogAspect:60 ---- 192.168.0.173
+2018-12-20 14:41:08,597  INFO WebLogAspect:61 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:41:08,597  INFO WebLogAspect:62 ---- ARGS : [hh3]
+2018-12-20 14:41:53,656  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 8492 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:41:53,659 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:41:53,660  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:41:56,258  INFO Chapter422Application:57 ---- Started Chapter422Application in 2.886 seconds (JVM running for 3.797)
+2018-12-20 14:42:14,338  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:42:14,339  INFO WebLogAspect:60 ---- 192.168.0.173
+2018-12-20 14:42:14,340  INFO WebLogAspect:61 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:42:14,341  INFO WebLogAspect:62 ---- ARGS : [h1]
+2018-12-20 14:42:15,587  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:42:15,587  INFO WebLogAspect:60 ---- 192.168.0.173
+2018-12-20 14:42:15,587  INFO WebLogAspect:61 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:42:15,588  INFO WebLogAspect:62 ---- ARGS : [h2]
+2018-12-20 14:42:16,903  INFO WebLogAspect:59 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:42:16,904  INFO WebLogAspect:60 ---- 192.168.0.173
+2018-12-20 14:42:16,905  INFO WebLogAspect:61 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:42:16,905  INFO WebLogAspect:62 ---- ARGS : [hh3]
+2018-12-20 14:42:54,345  INFO WebLogAspect:71 ---- return: hello, h1, time:37442,start:1545288136903
+2018-12-20 14:42:54,345  INFO WebLogAspect:73 ---- com.hly.chapter422.aspect.WebLogAspect@7e10b187
+2018-12-20 14:42:55,588  INFO WebLogAspect:71 ---- return: hello, h2, time:38685,start:1545288136903
+2018-12-20 14:42:55,588  INFO WebLogAspect:73 ---- com.hly.chapter422.aspect.WebLogAspect@7e10b187
+2018-12-20 14:42:56,906  INFO WebLogAspect:71 ---- return: hello, hh3, time:40003,start:1545288136903
+2018-12-20 14:42:56,907  INFO WebLogAspect:73 ---- com.hly.chapter422.aspect.WebLogAspect@7e10b187
+2018-12-20 14:46:39,799  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 9068 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:46:39,802 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:46:39,803  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:46:42,776  INFO Chapter422Application:57 ---- Started Chapter422Application in 3.278 seconds (JVM running for 4.129)
+2018-12-20 14:46:50,119  INFO WebLogAspect:61 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:46:50,119  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:46:50,121  INFO WebLogAspect:63 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:46:50,121  INFO WebLogAspect:64 ---- ARGS : [h1]
+2018-12-20 14:46:50,125  INFO WebLogAspect:73 ---- return: hello, h1, time:6,start:1545288410119
+2018-12-20 14:46:50,126  INFO WebLogAspect:75 ---- spend:7
+2018-12-20 14:47:17,433  INFO Chapter422Application:48 ---- Starting Chapter422Application on XL-PC with PID 8396 (D:\workspace2\my-springboot\chapter4-2-2\target\classes started by XL in D:\workspace2\my-springboot)
+2018-12-20 14:47:17,436 DEBUG Chapter422Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-12-20 14:47:17,436  INFO Chapter422Application:670 ---- The following profiles are active: dev
+2018-12-20 14:47:20,424  INFO Chapter422Application:57 ---- Started Chapter422Application in 3.626 seconds (JVM running for 4.661)
+2018-12-20 14:47:28,576  INFO WebLogAspect:61 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:47:28,577  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:47:28,578  INFO WebLogAspect:63 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:47:28,578  INFO WebLogAspect:64 ---- ARGS : [h1]
+2018-12-20 14:47:29,962  INFO WebLogAspect:61 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:47:29,962  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:47:29,963  INFO WebLogAspect:63 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:47:29,966  INFO WebLogAspect:64 ---- ARGS : [h2]
+2018-12-20 14:47:31,400  INFO WebLogAspect:61 ---- http://192.168.0.173:8080/hello
+2018-12-20 14:47:31,401  INFO WebLogAspect:62 ---- 192.168.0.173
+2018-12-20 14:47:31,401  INFO WebLogAspect:63 ---- CLASS_METHOD : com.hly.chapter422.web.HelloController.hello
+2018-12-20 14:47:31,401  INFO WebLogAspect:64 ---- ARGS : [hh3]
+2018-12-20 14:48:08,582  INFO WebLogAspect:73 ---- return: hello, h1, time:37182,start:1545288451400
+2018-12-20 14:48:08,583  INFO WebLogAspect:75 ---- spend:40007
+2018-12-20 14:48:09,966  INFO WebLogAspect:73 ---- return: hello, h2, time:38566,start:1545288451400
+2018-12-20 14:48:09,966  INFO WebLogAspect:75 ---- spend:40004
+2018-12-20 14:48:11,402  INFO WebLogAspect:73 ---- return: hello, hh3, time:40002,start:1545288451400
+2018-12-20 14:48:11,403  INFO WebLogAspect:75 ---- spend:40003

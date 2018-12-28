@@ -1,0 +1,26 @@
+spring:
+  cache:
+    type: ehcache
+    ehcache:
+      config: classpath:ehcache-test.xml
+  datasource:
+    url: jdbc:mysql://localhost:3306/test
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    properties:
+      hibernate:
+        hbm2ddl:
+          auto: update
+        show_sql: true
+
+
+logging:
+  level:
+    root: WARN
+    com:
+      hly: DEBUG
+
+
+
