@@ -22,8 +22,8 @@ public class TeacherTests {
     @Test
     public void contextLoads() {
 
-       /* Teacher teacher = new Teacher(2,"e");
-        teacherMapper.save(teacher);*/
+       Teacher teacher = new Teacher(3,"hu");
+        teacherMapper.save(teacher);
 
         List<Teacher> list = teacherMapper.findAll();
         Assert.assertEquals(3, list.size());
